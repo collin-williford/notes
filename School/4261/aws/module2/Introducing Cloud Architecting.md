@@ -1,0 +1,6 @@
+- Amazon SQS
+	- Amazon Simple Queue Service 
+- Amazon S3
+	- Amazon Simple Storage Service
+- Amazon EC2
+	- Amazon Elastic Compute Cloud

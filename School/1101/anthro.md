@@ -1,0 +1,77 @@
+Test 1 
+ - What is the name for material value that a bride brings into her marriage?
+	 - dowry 
+- Which description best defines participant observation?
+	- A practice in which an anthropologist directly particpates in the everyday life of the culture being researched
+- What occurs when a social movement changes the structure of the political system, whether through peaceful or violent action 
+	- Revolution
+- Which of these is an example of homologous structures?
+	- The forelimbs of bats and humans 
+- Which term describes the anthropolotical approach to understanding how the elements of a culture are interconnected?
+	- Holism
+- What term describes an institution that exercises centralized rule over a territory?
+	- the state
+- Name and briefly explain the two main migration theories pertaining to the peopling of the Americas. 
+	- There are two main migration theories pertaining to the peopling of the Americas, the interior route and the coastal route. The interior route is the most believed theory in which a land bridge of ice was formed between eastern Russia and western Alaska over the modern day Pacific as ocean levels where lower due to ice formations. Humans traveled from Russia to North America then continued to travel south till they made it to warmer lands where groups began to split up, some moving east and others moving south. The coastal route theory follows a similar path to the interior route but its believed that humans traveled by sea from western Russia to the west coast of North America. With this theory they would haved lived off of sea animals until the groups split up and found a place to inhabit in either North or South America.
+- Which statements is not true regarding communication?
+	- It is synonymous with the term language
+- Mendelian inheritance explains some 5,000 human traits. Most genetic expressions, however, are not the result of Mendelian heredity but rather are 
+	- polygenic traits
+- What is meant by the term monotheistic religion?
+	- a religion that recognizes only a single named god or goddess
+- What was a goal of salvage anthropology during the last 19th centry 
+	- Collect cultural material of peoples that were considered to be in danger of disappearning
+- What theory views social inequality as a struggle between economic classses?
+	- conflict theory 
+- What best explains the loss of hair in humans, ultimately leading to the wearing of clothes?
+	- thermoregulation
+- (blank), or brain lateralization, is a cognitive development that can be inferred through right or left hand dominance in the construction and use of early hominin tools 
+	- Handedness
+- Cultural anthropologist Cliffory Geertz used the example of winking and blinking to illustrate important aspects of culture. According to Geertz, which of these is an aspect of culture?
+	- Winking but not blinking
+- What is the term for a man talking condescendingly to someone about something he has incomplete knowledge of, with the mistaken assumption that he knows more about it than the person he is talking to?
+	- mansplaining
+- Which term refers to language that is associated with specific social groups such as those based on ethnicity, age, or gender?
+	- vernacular
+- Which description best defines heteronormativity?
+	- the view that heteroseuality is the most natural form of sexuality
+- Which event does not meet the criteria for being considered a rite of passage?
+	- going to work everyday 
+- New archaeological evidence suggests that the Americas were first settled by whom?
+	- A pre-Clovis culture
+- Which term refers to the belief that god can't be known and therefore skepticism is appropriate?
+	- angosticism
+- What theory did Claude Levi-Strauss use to analyze myth?
+	- structuralism
+- What is the correct expression of the scientific name for the monarch butterfly 
+	- *Danaus plexippus
+- Which of the following is a qualitative approach in sociocultural research?
+	- personal observation and documentation of a ritual
+- Which of the following best defines language
+	- An open-ended system of communication with a set of rules that allows an infinite number of meanings
+- Which of the following is the best example of how anthropologists in the 19th centry used Charles Darwin's theory of evolution to understand culture
+	- Homo erectus
+- Which statement is true regarding the role of kinship in solving problems in everyday life?
+	- In smaller societies with low populations, kinship plays a significant role 
+- Which term refers to a social organization in which certain people have more power or prestige than others?
+	- a social hierarchy 
+- Which description best defines evolutionary social theory?
+	- societies moving from one form of social organization to another in a linear evolutionary sequence 
+- What did studies in the 1980s reveal about nonhuman primate social organization?
+	- that nonhuman primate femails are at the center of their social groups
+- The 1990 Native American Graves Protection and Repatriation Act (NAGPRA) made it possible for objects such as human remains and funerary objects to be reptriated to the orginating culture. In what way does provenance present a challenge to repatriation?
+	- With the Native American Graves Protection and Repatriation Act, provenance presents a challenge to repatriation because not until recently in our history scientists haven't kept track of where humans remains and funerary object originated from. So when you have a piece of cultural history that someone found hundreds of years ago with no documentation it can be nearly impossible to return it to its owners or identify a originating culture. Also scientists want to use cultural artifacts to learn more about the past which might create a conflict and ethical issue if the owners are known and want the piece of their history back. In recent years there has been a move to create a peaceful and mutual relationship between scientists and indigenous communities with respectable terms to allow scientists to study and learn then return the artifacts to their origin.
+- Consider the following scenario. Noor and Aniya become roomates in a college dorm. Noor was raised Muslim, and Aniya grew up in a Catholic family. They both were taught ways to pray that reflected the rituals and beliefs of their respective cultures. As roommates, they found it very difficutl to understand each other and to accept their differences. The difficulty or inability to accept the practices or beliefs of another would be described as what?
+	- Ethnocentrism
+- Which of the following best defines systemic oppression?
+	- the normalization of political, economic, and social inequalities in a society 
+- Which term refers to large-scale movement caused by warfare, institutional violence or the search for better opportunities?
+	- diaspora
+- Which description best defines the overall field of anthropology
+	- the biological and social context of humans in a wide range of enviromental and historical contexts
+- What did Margaret Mead observe in her research in New Guinea?
+	- that gender roles and expectations varied greatly from one culture to the next
+- Which of the following is associated with the lower paleolithic
+	- *H.habilis* and the Oldowan tool industry 
+- Which of the following does not describe a sociocultureal construction
+	- The genetic relatedness of family members

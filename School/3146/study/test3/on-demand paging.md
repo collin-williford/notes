@@ -1,0 +1,4 @@
+ - Page fault
+	 - When a page needs to be removed from page frame because it needs to make space for another page
+- Page Hit 
+	- When a page is allowed to stay in its page frame because the next needed page is identical 

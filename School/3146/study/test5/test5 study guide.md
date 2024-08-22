@@ -1,0 +1,16 @@
+Networking - Application layer - FTP, SSH and Encryption
+ - Basics of DES, AES-128, AES-256
+	 - DES (Data Encryption Standard)
+		 - Developed in teh 1970s, DES was a widely used encryption algorith. However, due to its small key size (56 bits) and its vulnerabilities, it's largely replaced by AES
+	- AES (advanced Encryption Standard)
+		- AES is a symmetric encryption algorithm chosen by the US National Institute of Standards and Technology to replace DES. It supports key sizes of 128, 192, or 256 bits, with AES-128, AES-192, and AES-256 being the most common. AES is widely used in various applications and considered secure.
+- Differentiating SSH and FTP at the TCP stream level
+	- SSH (Secure Shell)
+		- SSH operates on TCP port 22 by default. It provides secure encrypted communication between two networked devices, typically a client and a server. SSH encrypts data during transmission, providing confidentiality and integrity. 
+	 - FTP (File Transfer Protocol):
+		 - FTP operates on TCP ports 20 and 21. It is used for transferring files between a client and a server. Unlike SSH, FTP does not inherently provide encryption there are variants of FTP that do provide encryption
+- Identifying SSH version and Encryption Standard in IMUNES
+	- Uses AES encryption 
+- Understanding Basic Encryption and Sniffing Traffic in Wireshark:
+	- Basic encryption involves scrambling data using a cryptographic algorithm and a key, rendering it unreadable without proper decryption key
+	- When sniffing traffic in Wireshark, encryptted data appears as random, unreadable bytes because Wireshark captures packets at the network layer before they are decrypted by the receiving application. Without the decryption key, Wireshark cannot decipher the encrypted data, preserving its confidentiality. 

@@ -1,0 +1,10 @@
+ - Which of these is not a relative dating method
+	 - radiocarbon dating
+- What was a goal of salvage anthropology during the late 19th centry?
+	- collect cultureal material of peoples that were considered to be in danger of disappearing 
+- Which anthropologist became famous for her bok Coming of age in samoa?
+	- Margaret Mead
+- Which description best defines ethnocentrism
+	- The judging of a culture based on one's own beliefs and cultureal background 
+- Which descripption best defines participant observation
+	- A practice in which an anthropologist directly participates in teh everyday life of the culture being researched

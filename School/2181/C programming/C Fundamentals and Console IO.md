@@ -1,0 +1,28 @@
+Some useful gcc options
+ - -c
+	 - Compile the source code but do not link (produce only the object file)
+- -E
+	- Prepocess the souce code only (i.e. expand macros, but do not compile the source code)
+- -o file
+	- Put output in file named file
+- --version
+	- Display version number of gcc
+- -std=c17
+	- Support C17 (2017) language features
+- -Wall
+	- Enable all warnings
+- -g 
+	- Produce information necessary to dubug using gdb
+- -o, -o1
+	- various optimization levels
+- -D name
+	- Define name as a macro with value 1 (used for condition compilation)
+- -llib
+	- Search named library when linking
+- -Idir (idir)
+	- Add directory dir to the head of the list of directories to search for header files
+- Ldir
+	- Add directory dir to the lsit of directories to search for libraries containing object files 
+- -S
+	- Performs preprocessing and compilation steps. Generates assembly instructions
+	- 

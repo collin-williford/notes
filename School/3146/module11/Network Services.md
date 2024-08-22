@@ -1,0 +1,20 @@
+ Types of network services
+  - Layer can provide two types of services to layer above it 
+	  - Connection-oriented service
+		  - Establish (logical) connection between source and destination 
+			  - Might include negotiation to decide on parameters
+		- Use connection to transfer data
+		- Release/end connection
+	- Connection-less service
+		- No connection is established between source and destination
+		- Each unit of data carries full destination address
+		- Data unit routed through network independent of other data units
+- Each of these services can be of two kinds
+	- Reliable serivce
+		- Ensures data accuracy and integrity 
+		- Requires acknowledgement by receiver
+		- Has significant overhead
+	- Unreliable service
+		- Does not check to see whether data received
+		- Data could sometimes get lost/delayed/corrupted
+		- Less overhead

@@ -1,0 +1,78 @@
+ - Which of the following is the Best definition of biological anthropology
+	 - The exploration of human biological variation and the ancient past
+- Why is the term biological anthropology preferred over the term physical anthropology
+	- The term physical anthropology became associated with scientific racism
+- The scientific naming system developed by Carolus Linnaeus is called (blank) and includes (blank)
+	- Binomial nomenclature, the genus and the species
+- For what is the French naturalist Jean-Baptiste Lamarck best known?
+	- The theory of macroevolution
+- What is the earliest primate foudn to date, believed to be the common ancestor of later primates 
+	- *Purgatorius*
+
+ - Which species was logn regarded as the earliest hominin to use stone tools?
+	 - Homo Habilis
+ - WHich of these is not characteristic of H. erectus?
+	 - increasing prognathism
+- Acheulean tools were modified on both sides, resulting in a symmetrical tool with tow faces, also known as 
+	- a bitface
+- Wha is the FOXP2 gene?
+	- a gene that is linked to the ability ot understand complex language
+- Which statement best explains how H. floresiensis could have a brain teh size of an orange (380 cc) and yet make tools, hunt and use fire?
+	- Island dwarfism provides evolutionary explanation for the small body size
+
+ - Which description best defines evolutionary social theory?
+	 - societies moving from one form of sical organization to another in a linear evolutionary sequence
+- Martin Gilens found that when poor people and rich people disagree on an issue, goverment policy nearly always supports wich portion of the population
+	- the wealthy
+- What occurs when a social movement changes the structure of the politiccal system, whether throught peaceful or violent action
+	- revolution
+- What term describes organized action by a group outside of the government to create social change
+	- Social movements
+- What area of study looks at the ways in which political and economic systems reinforce or contradict one another over time?
+	- political economy
+
+ - What subfield of linguistics examines the social context of language 
+	 - sociolinguistics
+- Which statement is not true regarding communication
+	- it is synonymous with the term language
+- Which of the following is most important to anthropologists who are interested in how language varies across cultures and environments?
+	- linguistic relativity
+- Which of the following is NOT an example of folk taxonomy?
+	- the system of binomial nomenclature utilized by Western universities
+- Which term refers to language that is associated with specific social groups such as those based on ethnicity, age, or gender?
+	- vernacular
+
+ - Which term refers to a social organization in which certain people have more power or prestige than others?
+	 - a social hierarchy
+- Which term refers to a hierarchical organization of different groups of people based on traits such as race, socioeconomic status, religion, or gender?
+	- Social stratification
+- Which term refers to socialized prejudice against women and feminism?
+	- Misogyny
+- Which term describes how modern capitalist interests continue to pressure poor nations through economic, political, or military means?
+	- Neocolonialism
+- Which of the following BEST defines systemic oppression?
+	- The normalization of political, economic, and social inequalities in a society
+
+ - Which description BEST defines immigrants
+	 - Individuals who move permanently from one country to another
+- Which of the following is NOT  a typical outcome of forced migration?
+	- Increase in economic wealth
+- Which term refers to the exchange of ideas and artifacts between cultures as a result of migration or globalization
+	- Cultural hybridity
+- Which term refers to the movement of people from rural to urban areas for education, employment, etc.?
+	- Internal migration
+- The Universal Declaration of Human Rights declares which of the following regarding refugees?
+	- Refugees have an international legal right to seek asylum.
+
+
+ - Which term refers to the belief that god can't be known and therefore skepticism is appropriate?
+	 - Agnosticism
+- What is meant by the term _monotheistic_ religion?
+	- A religion that recognizes only a single named god or goddess
+- Which of the following BEST defines _hierophany_?
+	- The manifestation of the sacred or divine
+- Which of the following is NOT true regarding the role of myth in religion?
+	- The power of myth depends on its ability to portray accurate and true accounts of history.
+- Which of the following would NOT be considered a rite of intensification?
+	- Baptizing an infant
+- 

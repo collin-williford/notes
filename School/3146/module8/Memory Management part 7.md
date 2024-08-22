@@ -1,0 +1,30 @@
+Page replacement 
+ - A modificaiton of FIFO
+	 - Maintain FIFO list of pages;  keep reference bit for each page 
+	 - When eviction needed
+		 - Check reference bit of oldest page (i.e., page at beginning of list)
+		 - If 0 (i.e., not referenced), evict page
+		 - If 1, set bit to 0, put page at end of list and repeat steps 
+	- Second chance algorithm
+		- ![](Pasted%20image%2020240228173224.png)
+		- ![](Pasted%20image%2020240228173236.png)
+		- ![](Pasted%20image%2020240228173250.png)
+		- ![](Pasted%20image%2020240228173320.png)
+		- ![](Pasted%20image%2020240228173330.png)
+		- ![](Pasted%20image%2020240228173338.png)
+		- ![](Pasted%20image%2020240228173354.png)
+		- ![](Pasted%20image%2020240228173401.png)
+		- ![](Pasted%20image%2020240228173410.png)
+		- ![](Pasted%20image%2020240228173418.png)
+		- ![](Pasted%20image%2020240228173429.png)
+		- ![](Pasted%20image%2020240228173435.png)
+		- ![](Pasted%20image%2020240228173442.png)
+		- ![](Pasted%20image%2020240228173449.png)
+		- ![](Pasted%20image%2020240228173455.png)
+		- ![](Pasted%20image%2020240228173502.png)
+		- ![](Pasted%20image%2020240228173510.png)
+		- ![](Pasted%20image%2020240228173518.png)
+		- ![](Pasted%20image%2020240228173526.png)
+		- ![](Pasted%20image%2020240228173534.png)
+	- Look at slides 
+

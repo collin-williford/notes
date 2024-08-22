@@ -1,0 +1,31 @@
+ IP address
+  - Public IP addresses are allocated and managed hierarchically 
+	  - IANA delegates blocks of addresses to regional authoriries (RIR)
+	  - ISPs/organizations get blocks of addresses from RIRs
+	  - ISPs/organizations assign addresses to customers/computers
+- IP addresses are allocated in contiguous blocks called prefixes
+- ![](Pasted%20image%2020240408175732.png)
+	- Most significant L bits form prefix or network address
+	- (32 - L) bits identify host within network or subnet
+		- There are 2^(32-L) - 1 hosts in subnet 
+- Prefix representation 
+	- /prefix length in bits -> E.g., /24 for 24-bit prefix 
+- Network of computers can be represented using 
+	- Start address within network/length of prefix in bits
+		- E.g., 172.16.0.0./24
+			- Least significant 8 bits form host identifier 
+			- Address range is 172.16.0.0 to 172.16.0.255
+
+Subnetting 
+ - Organizations can partition their own block of addresses
+	 - Create smaller subnets within their assigned subnet 
+- E.g., consider a university network 128.208.0.0/16
+	- EE.: 1000000 11010000 00| xxxxxx xxxxxxxxx
+	- CS: 1000000 11010000 1 | xxxxxx xxxxxxxx
+	- Art: 1000000 11010000 011 | xxxxx xxxxxxxx
+- Shorter prefix 
+	- Larger block of IP addresses with same prefix 
+	- Less specific prefix
+- Longer prefix 
+	- Smaller block of IP addresses with same prefix 
+	- More specific prefix 

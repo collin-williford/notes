@@ -1,0 +1,31 @@
+von Neumann Architecture
+ - Processing unit 
+	 - Executes program instructions 
+	 - Consits of two parts
+		 - ALU
+			 - Arithmetic/logic unit 
+			 - performs math operations such as addition, sub, logical
+		- Register
+			- A small, fast unit of storage used to hold program data and the instructions that are being executed by the ALU
+	- No distinctions between instructions and data in the von Neumann architecture 
+		- instructions are data
+		- Each register is therefore capable of holding one data word
+- Control Unit 
+	- drives program instruction execution on the processing unit. Together, the processing and control units make up the CPU
+	- Also includes some storage to keep track of execution state and determine next action 
+		- Program Counter(PC)
+			- Keeps the memory address of the next instruction 
+		- Instruction Register(IR)
+			- Stores the instruction, loaded from memory, that is currently being executed 
+- Memory Unit 
+	- Stores program data and instructions
+- Input unit
+	- Load program data and instructions on the computer and initiate program execution 
+- Output Unit 
+	- store or receive program results
+- Address Bus
+	- Send the memory address of a read or write request to the memory unit 
+- Data Bus
+	- Transfer data between units 
+- Control Bus
+	- Send control signals that request or notify other units of actions 

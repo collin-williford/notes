@@ -1,0 +1,8 @@
+ - Which description BEST defines the overall feild of anthropology?
+	 - The biological and social context of humans in w awide range of enviromental and historical contexts
+- Which term describes the anthropological approach to understanding how the elements of a culture are interconnected?
+	- Holism
+- Which term describes an anthropologist who studies the human fossil record, genetics, and evolution to answer questions about human origins?
+	- Biological anthropologist
+- Which term describes the mindset or belief that one's own cultural knowledge, traditions and beliefs are better than that of another culture?
+	- Ethnocentrism

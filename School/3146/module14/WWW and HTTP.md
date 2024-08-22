@@ -1,0 +1,71 @@
+World Wide Web (WWW)
+ - From user perspective, Web is vast collection of pages
+ - Pages named with Uniform Resource Locators (URLs)
+	 - Example: 
+		 - http
+			 - Protocol
+		- \www.phdcomics.com
+			- Server
+		- comics.php
+			- Page on server
+- View of page on browser is result of conversation between browser (client) and web server (server)
+	- Communication language: Hypertext Transfer Protocol (HTTP)
+
+Hypertext Transfer Protocol (HTTP)
+ - Request-response protocol that normally runs over TCp 
+ - For each request
+	 - Establish connection between browser and server
+	 - Negotiate session parameters/settings
+	 - Provide for orderly transfer of requested content
+	 - Close connection with server
+- Stateless protocol 
+	- Does not maintain state across request
+- Request message
+	- Initial request line
+		- method + local path + HTTP version 
+	- Request header
+		- information about request
+		- Acceptable content types in reponse
+		- Acceptable human language in response
+		- Email address of requestor
+		- ...
+	- Blank line 
+	- Optional message body 
+		- Data entered by user
+		- File being uploaded
+		- ...
+- HTTP has several request methods
+	- GET
+		- Read a web page
+	- HEAD
+		- Read a web page's header
+	- POST
+		- Append to a web page
+	- PUT 
+		- Store a web page
+	- DELETE 
+		- Remove the web page
+	- TRACE
+		- Echo the incoming request
+	- CONNECT
+		- Connect through proxy 
+	- OPTIONS
+		- Query options for a page
+- Response message
+	- Initial response line
+		- HTTP version + status + reason
+	- Response header
+		- Information about reponse
+		- Timestamp
+		- Content type
+		- Content length 
+		- ...
+	- Blank line
+	- Optional message body 
+		- File, query output, etc.
+- Status - > response code to tell client how request fared
+	- ![](Pasted%20image%2020240424181416.png)
+- Request to retrieve file at URL \http://www.somehost.com/path/file.html
+	- ![](Pasted%20image%2020240424181513.png)
+- Sample reponse from server
+	- ![](Pasted%20image%2020240424181538.png)

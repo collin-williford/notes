@@ -1,0 +1,15 @@
+ - == and != are **loose equality/inequality operators** 
+	 - They only compare the values of the operands
+	 - When the operands have different types, JavaScript first converts the operands to the same type and then compares 
+	 - If one of the operands if an object and the other is a primitive, convert the object to a primitive
+	 - If one of the operands is null or undefined, the other must also be null or undefined to return true. Otherwise return false
+	 - If one of the operands is a Boolean but the other is not, convert the Boolean to a number: true is converted to 1, false is 0
+	 - if one is a string and the other a number, convert the string to a number 
+
+ - 0 == '0'
+	 - return true because '0' is being converted to a number first
+- 0 === '0'
+	- Strict equality/inequality operands
+	- return false because it compares both the values and the data types of the operands 
+	- Always a good idea to use strict equality/inequality operands to avoid unexpected results caused by implicit conversion 
+- 
