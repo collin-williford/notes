@@ -57,3 +57,51 @@ Choosing the right database solution
 	- Maximum concurrent users to support 
 	- Nature of queries 
 	- Required strength of integrity controls 
+
+Avoiding single points of failure
+- Assume everything fails. Then, design backwards
+- Under Normal operations 
+	- Application servers -> database server (primary) -> database server (secondary)
+		- create a secondary (standby) database server and replicate the data
+- Upon failure
+	- Application servers -> database server (secondary)
+		- If the main database server goes offline, the secondary server picks up the load 
+
+Optimizing for cost
+- Take advantage of the flexibiligy of AWS to increase your cost efficiency 
+	- Are my resources the right size for the job?
+	- Which metrics should I monitor?
+	- How do I turn off resources that are not in use?
+	- How often will I need to use this resource?
+	- Can I replace any of my servers with managed services?
+
+Using caching
+- Minimize redundant data retrieval operations, improving performance and cost
+- First request
+	- User <--> internet <--> edge node <--> S3 bucket origin with dog.jpg
+- Second and subsequent requests
+	- User <--> internet <--> edge node with dog.jpg
+
+Securing your entire infrastructure 
+- Build security into every layer of your infrastructure 
+	- Use managed services 
+	- Log access of resources
+	- Isolate parts of your infrastructure 
+	- Encrypt data in transit and at rest 
+	- Enforce access control granularly, using the principle of least privilege 
+	- Use multi-factor authentication (MFA)
+	- Automate your deployments to keep security consistent 
+
+Key takeaways
+- As you design solutions, evaluate trade-offs and base your decisions on empirical data
+- Follow these best practices when builidng solutions on AWS
+	- Implement scalability 
+	- Automate your enviroment 
+	- Treat resources as disposable 
+	- use loosely-coupled components
+	- Design services, not servers
+	- Choose the right database solution 
+	- Avoid single points of failure
+	- Optimize for cost 
+	- Use caching 
+	- Secure your entire infrastructure 
