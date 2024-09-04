@@ -1,0 +1,127 @@
+English History Primer 
+- Protestant Reformation
+	- 1517 - 1648
+- English Reformation 
+	- 16th Centry 
+	- Henry VIII
+		- 1527, 1534
+		- Asks for divorce permission from Pope and he says no 
+		- 1534 he decides to start his own religion
+			- Church of England
+			- Protestant
+- Elizabeth I
+	- ruled from 1558 - 1604
+	- Coreslation with reign of Sea Dogs 
+- Sea Dogs
+	- 1562 - 1604
+	- Forcible Trade / Commerce Raiding
+	- England doesn't have a lot of foreign trading so Commerce Raiding is advantageous
+
+
+Forcible Trade Voyages
+	- Hawkins
+		- First Voyage 
+			- 1562-1563
+	- Hawking / Drake
+		- Second voyage
+			- 1564-1565
+	- Lovell / Drake
+		- Third voyage
+			- 156601567
+	- Hawkins / Drake
+		- Fouth Voyage 
+			- 1567 - 1569
+
+John Hawking
+- Triangle Trade 
+	- He traded slaves
+	- First Englishman to profit from slave trade 
+- Pedro de Ponte
+	- Spanish merchant in Canary islands 
+	- He was familiar with the Spanish-America trade which had been going on for a while 
+	- Told Hawkins that the Caribbean and Hispaniola were is need of labor, giving him the idea of slaves
+- First Voyage
+	- 1562 - 1563
+	- Hispaniola 
+	- biggest ship 120 tons 
+	- He trades or raids portugese african slave settlements in Africa to get slaves
+	- He then sails to small towns in Hispaniola, avoiding the big settlements 
+	- He is so successful that he has to rent 2 extra ships to bring back all the goods to England
+		- Since the two ships he rents are Spanish he sends them to Spain trying to get around illegal trade but the two ships are seized
+		- The trip is still very successful without those two ships 
+- Second Voyage 
+	- 1564 - 1565
+	- Biggest ship 700 tons 
+		- Owned by the Queen 
+			- She is buying into this trade
+	- Francis Drake joins him on the ride, he is not a known man yet 
+	- Dominica 
+		- First place they stop, get supplies
+	- Margarita Island
+		- Go south to the Spanish settlements 
+		- Lots of pearls in this Area 
+		- Governor refuses to trade with Hawkins because he is English 
+	- Borburata
+		- Hawkins asks for permission to trade with citizens and includes some threats in his request 
+			- He is given permission, ilicit trade
+		- 88% of sold goods were slaves
+	- Rio de la Hacha 
+		- Same thing happens as in Borburata
+	- Voyage was incredible profitable 
+	- He gets himself a royally appointed Coat of Arms 
+		- Hawkins Coat of Arms, 1565
+- Third Voyage 
+	- Hawkins is not included so the voyage is smaller 
+	- 1566 - 1567
+	- Biggest ship is 200 tons 
+	- John Lovell 
+		- Commander of Voyage
+	- Do same thing in Africa to get slaves 
+	- Margarita Island 
+	- Borburata 
+	- Rio de la Hacha
+		- They refuse to trade with English 
+		- Lovell sets aside old or sick slaves which he doesn't want and its unknown if that was a behind the scenes trade 
+	- Hispaniola 
+	- Miguel de Castellanos
+	- This voyage was not as profitable 
+- Fourth Voyage 
+	- Six ships, big voyage 
+		- Queens ships is back 
+			- Jesus of Lubeck 
+	- Francis Drake and Hawkins 
+	- 1567 - 1569
+	- Stops in Canary islands but Spanish seem to be nervious and might attack him so he leaves 
+	- Dominican 
+	- Margarita Island 
+		- Spanish trade with English under severe threats 
+	- Borburata
+		- Governor said no to trade but locals did it anyway 
+			- Full on illegal trade
+	- Rio de la Hacha 
+		- Governor, Miguel de Castellanos
+		- Drake sees Spanish infantry and calvary waiting on shore 
+		- Hawkins has more men so they land and after some high pressure negiotations (setting fire to part of town) they trade 
+		- The Governor says they were under pressure to trade
+		- Hawkins says they made fair trade 
+	- Santa Marta
+	- Cartagena
+		- English fire off shots then keep going 
+	- When they get into the Gulf of Mexico they get into a massive storm and heavily damages all but one ship 
+		- One ship returns to England 
+		- 5 ships have to port at Major Spanish Settlement 
+			- San Juan de Ulua
+		- Battle of San Juan de Ulua
+			- 1568
+			- English wern't initally attacked as they new spanish fleet hadn't arrived yet 
+			- They negoitated to let the English rebuild their ships 
+				- After a couple days the Spanish fired at English 
+				- English Ships 
+					- 1 sunk 
+					- 2 captured
+					- Queens big ship is demasted
+					- Drake claims there was a gust of wind and escaped to England
+					- Hawkins packs all his goods and men onto a smaller ship 
+						- 100 of the men decide they would rather be left in modern day Texas, spanish terrirtory than try and cross atlantic 
+							- they get captured, work slaves or executed
+					- 300 of 400 men are captured or killed/lost
