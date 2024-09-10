@@ -1,0 +1,112 @@
+EC2 instance type configuration 
+- An EC2 instance type defines the configuration of CPU, memory, storage and network performance 
+	- Instance type
+		- m5d.large
+			- vCPU
+				- 2
+			- Memory
+				- 4 GiB
+			- Storage
+				- 1 x 50 NVMe SSD
+			- Network Performance
+				- Up to 10 Gbps
+	- Instance type
+		- m5d.xlarge
+			- vCPU
+				- 4
+			- Memory
+				- 8 GiB
+			- Storage
+				- 1 x 100 NVMe SSD
+			- Network Performance
+				- Up to 10 Gbps
+	- Instance type
+		- m5d.8xlarge
+			- vCPU
+				- 32
+			- Memory
+				- 128 GiB
+			- Storage
+				- 2 x 600 NVMe SSD
+			- Network Performance
+				- 10 Gbps
+
+EC2 Instance type name 
+- Instance types named components
+- Ex: c7gn.xlarge
+	- Family 
+		- c
+	- Generation 
+		- 7
+	- Processor family 
+		- h
+	- Additional capabilities
+		- n
+	- Size
+		- xlarge
+
+Suitability of instance types for workloads 
+- General prupose instance types
+	- Workload examples
+		- Web or application servers
+		- Enterprise applications
+		- Gaming servers
+		- Development or test enviroments
+	- Instance type examples
+		- M7, Mac, M6, M5, M4, T4, T3, T2
+- Compute optimized instance types
+	- Workload examples
+		- Batch processing 
+		- Distributed analytics
+		- High performance computing (HPC)
+	- Instance type examples
+		- C7, C6, C5, C4
+- Storage optimized instance type
+	- Workload examples
+		- High-performance databases
+		- Real-time analytics
+		- Transctional workloads
+- Memory optimized instance types
+	- Workload examples
+		- In-memory caches
+		- High-performance databases
+		- Big data analytics
+	- Instance type examples
+		- R7, R6, R5, R4, X2, X1, Z1
+- Accelerated computing instance types
+	- Workload examples
+		- Machine learning, artificial intelligence 
+		- HPC
+	- Instance type examples 
+		- P5, p4, P3, P2, DL1, Trn1, Inf2, Inf1, G5, G4, G3, F1, VT1
+- High performance computing optimized instance types
+	- Workload examples
+		- Deep learning workloads
+		- Compute-intensive HPC workloads
+	- Instance types examples
+		- Hpc7, Hpc6
+
+Choosing an instance type
+- With over 270 available instance types, how do you choose the right type?
+	- Consider both performance requirements and cost requirements
+	- Use available resources to get recomended options 
+- Task 
+	- Creating a new instance
+		- Solution 
+			- In the EC2 console, use the Instance Types page to filter by characteristics that you choose
+			- Recommendation:
+				- The latest generation in an instance family typically has a better price-to-performance ratio
+	- Optimizing an existing instance
+		- Solution 
+			- You can get recommendations for optimizing the instance type by using the AWS Compute Optimizer
+			- You can get recommendations and modify the instance accordingly 
+
+AWS Compute Optimizer
+- Recommends optimal instance type, instance size, and Auto Scaling group configurations
+- Analyzes workload patterns and makes recomendations
+- Classifies instance findings as Under-provisioned, Over-provisioned, Optimized or None
+
+Key takeaways
+- An EC2 instance type defines a configuration of CPU, memory, storage and network performance characteristics
+- As a recommendation, choose new generation instances types in a family because they generally have better price-to-perform ratios
+- Use the Instance Types page in the Amazon EC2 console and AWS Compute Optimizer to find the right instance type for your workload 
