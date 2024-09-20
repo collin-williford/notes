@@ -1,0 +1,77 @@
+Conquest of Jamacia 
+- Olivery Cromwell
+	- Death 1658
+	- Puritist 
+		- Wanted to purify the anglo church 
+	- Fights Dutch because they control a lot of foreign trade 
+	- Fights Spanish because religions and economic, nationalist reasons 
+	- He wants to capture land in Caribbean to grow sugar 
+- English Commonwealth / Protectorate, 1649 - 1660
+	- Charles I, - 1649
+	- Charles II, 1660 - 
+- Western Design
+	- 1654 - 1655
+	- English wanted to capture Hispaniola because sugar would be really profitable 
+- Admiral WIlliam Penn
+	- In charge of ships sent by Cromwell to take Hispaniola
+	- 18 warships 
+	- 20 transport vessels 
+- General Robert Venables
+	- Commander of military sent by Cromwell to Hispaniola 
+	- 5,000 men
+- Siege of Santo Domingo
+	- 1655
+	- Spanish have 2,400 men in Hispaniola 
+	- English land far away from Santo Domingo then treck 4 days to the city 
+	- English ships can't get range right with cannons ships
+	- Siege fails 
+- Invasion of Jamacia
+	- 1655
+	- English fail to take Santo Domigo so they go on to Jamacia to try and salvage the trip instead of accepting failure 
+	- Entire spanish population of Jamacia was 1,500
+	- English are successful in capturing Jamacia 
+- Juan Ramirez de Arellano 
+	- Jamacia governor who surrenders 
+	- Small pox epidemic was spreading across Jamacia at this time 
+- Anglo-Spanish War of 1654 - 1660
+	- When English raid Jamacia they destroy a lot of the spanish religious stuff in Jamaica 
+
+Jamacian Consolidation 
+- Port Royal 
+	- 1518
+	- Spanish had little settlement 
+	- English built larger settlement and fortifications 
+	- sandy settlement which will lead to problems 
+	- By 1692
+		- 5 forts defending harbor 
+- Fort Cromwell 
+	- 1655
+	- First fort built by English 
+- Port Royal Taverns
+	- There was lots of beer and brothels in Port Royal 
+	- Told to be a very drunk city 
+- Anglo Spanish War of 1654 - 1660
+- Colonel Edward Doyley
+	- 1655 - 1662
+	- Man in charge of Jamacia 
+	- Had to hold off counter-attacks and smallpox 
+	- He invites Buccaneers to jamaica 
+- Spanish Recapture Attempts
+	- 1657
+	- 1658
+	- 1660
+- Battle of Rio Nuevo 
+	- 1658
+	- Spanish recapture attempts
+	- Spanish come from New Spain (Mexico)
+		- 500 men 
+	- English get lucks and spot Spanish as they are attempting to get onto land by luck 
+	- Doyley is able to get 700 men to defend 
+	- 2 days there is fighting 
+		- English have better firepower
+		- English get lucks by spotting Spanish early 
+- The Buccaneer Invitation Legend
+	- 1657
+	- Historiography 
+		- The origional thought was that Edward Doyley brought the Buccaneers to Jamacia to help fight the Spanish 
+		- Another historian, Pestana believed the Buccaneers were brought to Jamacia to help with hunting as they needed food and then there they realized how profitable it was to raid the Spanish 

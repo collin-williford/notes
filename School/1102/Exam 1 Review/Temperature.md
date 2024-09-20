@@ -1,0 +1,12 @@
+- When is Earth closes and farthest from teh sun? Names for this
+- Why do we have seasons - understand the season diagram that was drawn on the board
+- What is the difference between a solstice and an equinox?
+- Understand direct sunlight and the distance sunlight has to travel through the atmosphere and the resultant temperature pattern on earth
+- UNderstand the diurnal temperature pattern on Earth and why the maximum daytime temperature occurs well after noon on most days 
+- What is a temperature inverstion? Where do we most commonly see them?
+- Understand the basics about the main controllers of surface temperature: 
+	- Laitude
+	- Proximity of Water
+	- Ocean currents 
+	phere has the largest swings in annual temperature? Why?
+- What are the continental and marine effects?

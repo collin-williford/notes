@@ -1,0 +1,107 @@
+- What is potential vs Kinetic energy - how it kinetic energy defined in the atmosphere?
+	- Potential 
+		- Energy that hasn't been used up 
+		- stored up availab eenergy 
+	- Kinetic 
+		- Energy of motion 
+		- Kinetic energy in the atmosphere is temperature 
+		- How fast are the air molecules moving right now?
+		- increase the temperature of a room 
+			- molecules have more energy 
+			- moving around more
+			- have higher kinetic energy 
+- Know the difference between warm and cold air 
+	- warm 
+		- because it has so much kinetic energy it expands 
+	- cold 
+		- doesn't have much energy 
+		- compress down 
+- What are the main differences between Fahrenheit, Celsius, and Kelvin?
+	- Fahrenheit 
+		- used around the united states
+	- Celsius
+		- around the world 
+		- freezing points of water at zero 
+		- boiling point 100 degrees 
+	- Kelvin 
+		- used in science
+		- doesn't drop below zero 
+		- friendly for math 
+- What are Heat Capacity and Specific Heat?
+	- heat capacity 
+		- how much energy can an object hold or store?
+		- water is able to store a tremendous amount of energy when you compare it to land or air
+			- water has high heat capacity 
+	- Specific heat 
+		-  Takes a lot of energy to increase its temperature
+- Which has a higher heat capacity? Water or Land?
+	- water 
+		- higher
+		- takes a lot of energy to increase its temperature 
+	- land 
+		- lower
+		- heat and cool very quickly 
+- What is latent heating and how does it effect temperature?
+	- latent heating 
+		- When water changes phase 
+		- when water evaporates
+			- requires energy to go from the liquid state into the gas state 
+			- ice doesn't have much energy 
+			- liquid has more than ice and gas as more than liquid 
+				- to go from liquid to gas you have to have energy 
+					- add heat 
+					- takes that heat from surrounding environment 
+		- water condenses
+			- increase in temperature 
+- Latent heats of evaporation and condensation 
+	- when it rains outside, it feels colder out 
+	- rain droplets are evaporating and lowering the temperature 
+- heat transfer = conduction and convection 
+	- conduction 
+		- touching something 
+		- molecule to molecule 
+		- Transfer of energy 
+	- convection 
+		- smoke rising 
+		- energy transfer by movement 
+- What is advection?
+	- when heat moves from one place to another
+	- generally carried by wind 
+- What is the difference between longwave and shortwave energy?
+	- longwave
+		- peaks are far away
+		- longer you make the waves the less energy it has 
+		- low energy radiation 
+		- radio waves, microwaves, infrared
+	- shortwave
+		- peaks are close 
+		- gamma rays, x rays, ultraviolet ways, visible 
+- What is the EM spectrum and what are the primary types of solar and Earth radiation?
+	- spectrum of all types of radiation out there
+	- sun primarily gives off visible radiation 
+	- Earth primary radiation is infrared 
+- What is the Greenhouse effect? Natural? Man-made?
+	- Visible light coming into earth get trapped in by clouds, water vapor, CO2
+	- greenhoue gases 
+		- CO2
+		- methane
+		- water vapor 
+	- Infrared reaches the CO2 and the CO2 absorbs it and then sends oem it it back down to the ground 
+- What is albedo? What is the average Earth albedo? Which surfaces have high albedos?
+	- albedo is earths reflection 
+	- biggest reflectors are things that are light in color 
+		- clouds
+		- snow 
+		- ice 
+		- sand 
+	- average is 30 to 31 percet 
+- Understand the basics of energy balance on Earth - where is there a surplus and deficit?
+	- 30 degrees north and south of equator 
+		- More energy coming in than leaving, surplus of energy 
+	- polar regions 
+		- more earth energy leaving than sunlight coming in 
+			- deficit of energy 
+	- To counterbalance energy near the equator earth sends warm air towards the poles and cold air to the equator 
+	- Why we have warm fronts and cold fronts and hurricanes and giant weather systems 
+
+

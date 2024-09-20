@@ -1,0 +1,81 @@
+-  What is weather
+	- What is happening outside right now 
+	- Current state of atmosphere right now 
+- What is climate
+	- Long term average of different vairables
+		- Temperature 
+		- humidity 
+		- wind 
+	- Average variables over a long term and come up with an average which is your climate 
+- What was Earth's early atmosphere made of? Today?
+	- Mostly nitrogen 
+		- 78%
+	- 21% oxygen 
+- Know the difference between constant and variable gases and the dominant ones 
+	- Constant 
+		- Nitrogen 
+		- oxygen 
+	- Variable
+		- Carbon dioxide
+		- Water vapor 
+			- dominant variable gas
+		- Their amounts change from location to locaion 
+- Which variable gas is the most important for 'weather' and why?
+	-  Water vapor 
+		- dominant variable gas
+		- water vapor evaporates off the surface water
+		- Liquide water does create teh vapor in teh atmosphere which releases heat 
+		- When it condenses, it creates clouds, percipitation 
+		- All of the fresh water on earth is created by water vapor 
+- What have CO2 concentrations done over the past 150 years?
+	- they've increased over the last 150 years
+	- Burning of fossil fuels 
+	- CO2 is a known greenhouse gas
+		- it traps in the heat that the Earth would normally let out
+		- 
+- What is ozone and where is it found? What does 'good' ozone do for us?
+	- Found in stratosphere
+	- 10 to 15 miles above ground 
+	- layer of ozone is 003, naturally occuring 
+	- reflects ultraviolet radiation that coming from the sun 
+		- Ozone tends to block a good chunk of it 
+- What is an aerosol and name some examples
+	- Something that is in the atmosphere that is non gaseous
+	- Ex
+		- Pollen 
+			- Floating around 
+		- Dust
+		- Salt from ocean 
+		- Volcanic dust 
+		- Saharan dust 
+	- Pollutatnts that are non gases 
+- Understand the key properties of the virtical structure of the atmosphere: 
+	- Density 
+		- steadily decreases the higher you go 
+		- Becaues gravity points straight down 
+		- fewer air molecules higher up 
+		- 
+	- Pressure
+		- steadily decreases the high you go 
+	- Temp
+		- decreases with height 
+- Know the lowest two thermal layers in the atmosphere (Troposphere and Stratosphere) - what does temperature do with height in each?
+	- Troposphere 
+		- Closest to ground 
+		- temp gets colder higher you go 
+			- sun mostly heats the ground
+	- Stratosphere
+		- Temperature increases with height 
+		- Ozone layer absorbs ultraviolet radiation 
+- What is a geostational satellite? Know the difference between: visible, IR and Water Vapor satellite 
+	- as the earth turns, the satellite turns with it. 
+	- Covers same spot on earth all the time 
+	- Visible 
+		- Just a normal picture 
+	- Infrared
+		- scans for temperature 
+		- colder the coulds are the brighter they are 
+		- means the taller they are and the stronger they are 
+	- Water vapor visible 
+		- scans for water vapor 
+		- gaseous water 
