@@ -1,0 +1,89 @@
+The Ends of Jamaican Buccaneering
+- Treaty of Madrid, 1670
+	- Sugar planters liked it
+- Henry Morgan's Turn, late 1670s-early 1680s
+- Port Royal Earthquake, 1692
+	- Liquefaction
+		- sand acted as quicksand, consuming buildings
+	- Port was built on sand
+	- town of 6,000
+		- 2/3 of people die from earthquake and aftermath
+	- Port Royal Pocketwatch
+		- June 7, 1692 at 11:43 am
+	- Port is rebuilt but it never has the same signifigance
+
+Buccaneers vs. Sugar Planters, 1670s
+- Governors and Acting Governors
+	- Thomas Lynch
+		- 1663-1664, 1671-1674, 1682-1684
+	- Thomas Modyford
+		- 1664-1671
+	- Henry Morgan
+		- 1674-1675, 1678, 1680-1682
+	- John Vaughan
+		- 1675-1678
+	- Charles Howard
+		- 1678-1680
+	- Christopher Monch, 2nd Duke of Albemarle
+		- 1687-1688
+
+Lynch and Morgan
+- Thomas Lynch, 1671-1674
+- Modyford Arrested, 1671
+- Morgan Arrested, 1672
+- Morgan Retuns, 1674
+	- Acting Governor, 1674-1675
+- Modyford Returns, 1675
+- John Vaughan, 1675-1678
+	- Known for corruption 
+- French Commissions 
+	- Buccaneers would go to English looking for commissions but were denied 
+		- The english would under the table point them to the French who would give commissions
+		- English would get some kickback from the profits 
+- Jamaican Assembly Foreign Commissions Legislation, 1677
+	- An English crew cannot sail under a foreign commission 
+	- Closes the French Commissions loophole 
+	- Law doesn't take effect for a year
+	- Vaughan trying to give illusion that he is doing something about Buccaneers
+- Charles Howard, 1678-1680
+	- Creates Arrest warrant for known buccaneer
+	- Bartholomew Sharp Arrest Order, May 1680
+- Henry Morgan, 1680-1682
+	- becomes acting governor 
+	- Sends out arrest warrant again
+		- Bartholomew Sharpe Arrest Order, July 1680
+- Jamaican Assembly Anti-piracy Legislation, 1681
+	- Stops all commercial interations with anyone beccaneering or pirating 
+	- This led to arrests, convections and executions 
+	- This law was actually enforced 
+- Jacob Evertson, 1681 
+	- Dutch buccaneer
+	- Captured ship off coast of Jamaica 
+	- Henry Morgan sends crew to rescue ship 
+		- Claims he kills most of buccaneers 
+	- Evertson shows up alive later on so Morgan is lying 
+- Thomas Lynch
+	- 1682-1684
+	- death 1684
+- Jamaica Act of 1683
+	- Passed by English Parliment 
+		- Their version of Anti-piracy legislation passed by Jamacian Assembly 
+- Morgan's Libel Suit, 1685
+- Henry Morgan, 
+	- Death 1688
+	- Christopher Monck, 2nd Duke of Albemarle, 1687-1688
+	- Hans Sloane's Description
+		- Monck's personal physician 
+		- Morgan was getting very sick 
+		- After inspecting morgan 
+			- yellow eyes 
+			- big belly 
+			- lots of drinking and sitting up late 
+			- liver failure 
+
+Hispaniola Commissions
+- Commissions, 1660s-1680s
+	- Tortuga 
+	- Petit-Goave
+- Truce of Ratisborn, 1684
+	- French agree to stop commissions in Caribbean 
