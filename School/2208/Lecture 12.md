@@ -1,0 +1,84 @@
+Henry Avery 
+- Avery's Fate
+	- It isn't exactly known what happens to Avery 
+- Crew's Fate, n=113
+	- North America x 75 / 7 / 0, 1697-1705
+		- 75 pirates
+		- 7 brought to trail 
+		- 0 convected 
+	- England x 24 / 15 / 6 / 5, 1696
+		- 24 pirates 
+		- 15 arrested 
+		- 6 convected 
+		- 5 executed
+- Execution Dock, -1830
+	- Where the British execute people for Maritime crimes
+	- River Thames 
+
+William Kidd
+- Well known as a privateer, captain 
+- Jean Fantin 
+	- French man who was gathering french to attack English 
+	- Kidd stole Fantin's ship before he could take off
+- Robery Culliford, 1689, 1690
+	- Helped to steal the ship 
+	- In 1690 Culliford steals the ship from Kidd
+- *Blessed William* 
+	- the ship Kidd stole he renamed to *Blessed William* 
+- Nevis Governor Christopher Cordington, 1689
+	- Kidd is contracted to defend this Governor's island 
+- Governor Richard Coote, 1695
+- Letter of Marque from William III, 1695
+	- Kidd is given Letter of Marque directly from King to go get the Roundmen pirates
+	- To track down thomas tew, Henry Avery
+- *Adventure Galley*, 1696
+	- New ship for Kidd 
+	- Along their adventure they keep seeing ally ships they want to attack because they are paired by shares 
+- William Moore, 1697 
+	- Gunner on the *Adventure Galley*
+	- They spot a ship which is Dutch 
+		- Kidd says that can't attack ship
+		- Moore wants to attack 
+		- Kidd throws a bucket at Moore, hits him in the head and kills him 
+- Kidd didn't know but at the time of killing Moore he was declared a Pirate by the British gov't
+	- He refused to give some of his crew to the British Navy 
+- *Quedagh Merchant*, 1698
+	- Captain Wright
+	- They were showing French Flags 
+	- Kidd attacks their ships but they are an Indian ships hired by Armeniams merchants, which has a English Captain 
+- French Passes
+	- Captain Wright had a French Pass
+	- A pass which allows safe passage because French controlled the Indian Ocean 
+- *Adventure Prize*
+	- They rename the Quedagh Merchant to Adventure Prize 
+	- 
+- Robert Culliford, 1698
+	- In Madigascar, Culliford raids the Adventure Prize and captures it 
+- Kidd returns to Hispaniola in Caribbean with the Indian Ship 
+	- He realizes he is wanted for piracy so he gets a smaller English ship hoping to avoid detection 
+	- He leaves the ship with his friends who destroy his ship after he leaves and takes all his treasure
+	- Goes to Gardiners Island in the Americas and leaves treasure with some friends again 
+- Richard Coote, 
+	- Had Kidd arrested in 1699 
+	- Kidd is sent to England in 1700
+- Parliament and High Court of the Admiralty, 1700-1701
+	- Newgate Prison 
+		- Kidd is sent to Newgate Prison 
+	- Whigs and Tories 
+		- A lot of Kidds supporters were Whigs who were no longer in majority power 
+	- Kidds Whigs friends want nothing to do with Kidd 
+	- The French Passes which would have helped Kidd were "lost"
+	- Found Guilty 
+- Rediscovered French pass, 1910
+	- The French passes weren't found again untill 1910 
+- Execution Dock, 1701 
+	- Kidd is executed 
+- Gibbeted, 1701-1704 
+	- His body was wrapped in an iron cage and left on display for three years in the Execution Dock 
+- Kidd Ballads
+	- "Captain Kidd's Farewell to the Seas, or, the Famous Pirate's Lament," 1701/Britian 
+	- The Dying Words of Captain Robert Kidd, ca. 1810-1814/United States 
+
+English Act of Piracy of 1699
+- A trial can be held anywhere there are a couple Naval Officers
+- If you are an accessory to Piracy you will also be charged with Piracy 

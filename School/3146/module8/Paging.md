@@ -42,7 +42,7 @@ find Hexadecimal physical address
 - then add 0x15 because the table 0x D corresponded to 0x 15 physical frame 
 	- 00010101 this is physical frame from table
 	- 001011001010110 this is page offset (rear 15 bits)
-	- dont add decimals just put physical frame in front of page offset 
+	- dont add decimals just put physical frame in front of page offset
 	-  = 00010101001011001010110
 	- which is 0xA9656
 
