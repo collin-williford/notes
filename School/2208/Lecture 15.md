@@ -1,0 +1,85 @@
+Pardon and War 
+- The King's Pardon of 1717
+	- The king issues a procolomation for pardoning pirates 
+	- Gives pirates a year to surrender to a colonial governor and they will get a full pardon 
+- The King's Pardon of 1718 
+	- Because news travels slowly it gets extended for another 6 months 
+- War of Quadruple Alliance, 1718-1720
+	- The king wanted privateers so thats why he wanted to pardon the pirates
+	- Philip V 
+		- King of Spain 
+		- He starts to want to reclaim lands he lost as part of treaty when he claimed power 
+	- Britain, France, Dutch Republic, Austria v. Spain 
+		- Spain wanted to reclaim lands and others wanted to stop them 
+
+Henry Jennings 
+- Henry Jennings, 1718, death 1745
+	- When news of kings pardons get to bahamas, Jennings goes for the pardon 
+		- A lot of other pirates didn't want to 
+		- Governor of Bremuda tells Jennings to go out and hunt pirates who don't want to take pirate 
+	- Charles Vane 
+		- Vane is one of the pirates jennings tries to capture but is unsuccesful
+	- War 
+		- Jennings captures a lot of Spanish ships in the War of Quadruple Alliance, makes a lot of money 
+		- He buy slots of land on Bermuda and retires 
+	- Death by Spanish custody 
+		- Jennings comes out of retirements 
+			- becomes privateer in the War of the Austrian Succession 
+		- Gets captured by Spanish and dies in Spanish custody 
+
+Benjamin Hornigold, 1713-1717
+- Thirty-gun *Ranger*, Late 1716 
+	- A ship Horigold had that had 30 guns
+	- Made him very powerful in pirating 
+	- When he captures the Ranger, Teach becomes captain of old ship and Hornigold takes the Ranger 
+- Pirate Connections 
+	- Edward Teach, 1716
+		- One of Horigold's leutenients
+		- When Horigold captures a bigger ship he takes the bigger ship then his leutenient becomes the captain of the old ship 
+	- Stede Bonnet, Late 1717 
+		- 
+	- Samuel Bellamy, Mid 1716
+		- Hornigold is not capturing British ships as he still has the spirit of a privateer 
+		- Bellamy votes with the crew to throw Hornigold off the ship because they want to attack British ships 
+- Hornigold takes the Kings pardon 
+	- He becomes a pirate hunter, 1718-1719 
+		- He goes to Jamacia for the pardon but returns to Bahamas 
+			- Woodes Rogers, 1718 
+				- Governor of Bahamas 
+				- Rogers has Hornigold go out and hunt pirates 
+					- Wanted hiim to get Charles Vane
+						- Is unsuccessful
+- Dies in a Hurricane 
+	- 1719 
+	- Ship gets stuck on rocks 
+		- He dies 
+
+Edward Teach, 1713-1718
+- Edward Teach/Thatch, Blackbeard
+- Teach Trading Ships 
+	- Hornigold makes Teach captain of a Six-gun Sloop, 1716
+	- In late 1717, Teach becomes cpatain of Stede Bonnets ship, the *Revenge*
+	- Hornigold and Teach split around this time 
+	- In late 1717 Teach captures a slave ships, *La Concorde*, converts it into a Forty-gun *Queen Anne's Revenge*, 
+		- He gives the crew from the catpured slave ship his old ships, the *Revenge* 
+	- His fleet has several ships 
+		- Sources say 2 or 3 ships in his fleet 
+	- He creates a blockaid in Charles Town, Mid 1718 
+		- They sit in the harbor and control incoming ships 
+		- Stayed in harbor for about a week and raid 9 ships 
+- Teach goes to NC to repair his ship 
+	- He crosses Stede Bonnet
+	- Teach told Bonnet earlier that Bonnet could have the *Revenge* back earlier when he took it from him 
+	- Teach runs around on a sandbar in Beaufort Inlet, NC 
+		- The ships is very damaged, not survivable 
+		- One of the smaller ships is also damaged 
+	- Bonnet goes to NC Governor, Charles Eden looking for Kings pardon 
+		- Goes to tell Teach about the pardon but Teach had run off already 
+		- Gets away with Bonnets ship he had promised to give back to him 
+		- Teach eventually gets the pardon in june 1718
+			- By august he is labeled a pirated again 
+- Ocracoke Inlet, NC, mid 1718/late 1718 
+	- He is suppoused to be being hunted by other pirates at this point 
+	- Several colonial governors know where he is 
+		- They are planning to send people to capture him 
+		- 

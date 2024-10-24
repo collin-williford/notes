@@ -1,0 +1,61 @@
+War of the Spanish Succession
+- Woodes Rodgers
+	- Captain of voyage 
+		- Duke and Duchess, 1708-1711
+			- Given two ships, Duke and the Duchess
+			- Manila Galleon, 1709
+				- Rodgers captures this ship and there is lots of wealth 
+		- Investors doubled thier money 
+		- William Dampier is given a role on this ship but not allowed to captain 
+	- Madagascar Voyage, 1713 
+		- Rodgers needs more money but in 1713 the war is over so he can't privateer 
+		- He wants to reform the pirates on Madagascar 
+		- Was also working for the East India Trading Company and was looking to see if the east coast of Africa would be available for slave market 
+		- If he can develop a slave trade and reform the pirates he can make money 
+			- The trading company didn't follow through with east africa slaves 
+- Treaty of Utrecht, 1713 
+	- King Phillip would take the throne 
+	- What the british get out of the treaty 
+		- Asiento, 1713-1739/1750
+			- British can trade to trade into spanish ports in Spanish America 
+			- Only suppoused to do 
+				- 4,800 Enlsaved Africans 
+				- 500 Tons of Goods 
+
+1715 Plate Fleet Wreck 
+- A Spanish fleet leaves Havana 
+	- 11 Spanish ships
+	- 1 French Ship 
+	- When near the coast of Central Florida they meet a hurricane and the 1 french ship goes out to sea and survives but the 11 spanish ships go to the coast and all wreck 
+		- Lots of people die 
+		- 6 are close of Vero Beach 
+		- A makeshift survivors camps is constructed 
+	- Spanish Salvage Camp, 1715-1718 
+	- Henry Jennings
+		- *Seaflower*, 1710
+		- Is commonly given tasks by the Jamican Governor, Archibald Hamilton 
+		- In 1715 his ship is the *Bathsheba*
+		- In 1715 he is given a task by Jamaican governor to hunt pirates 
+			- He uses this to go attack the Salvage camp 
+			- In 1716 he raids the Spanish Salvage Camp 
+				- Other pirates with him 
+					- Henry Jennings, Charles Vane, Samuel Bellamy, Benjamin Hornigold, Edward England 
+				- The took all the wealth from the camp and gave all the guns to the Native Americans 
+		- Nassau, New Providence 
+			- After raid then return to New Providence 
+			- Jennings returns to Jamaica 
+				- Jamaican governor worries that Jennings raid might have been too big and could cause a war 
+					- So Jennings leaves and raids the salvage camp again 
+						- He returns to Jamaica again but is told the governor will arrest him 
+							- So he leaves to New Providence 
+
+Privateer/Pirate Republic of Nassau, 1706-1718 
+- War of the Spanish Succession, 1702-1713
+	- Durring the war in 1703 and 1706 a Spanish fleet attacks the settlement and the common people abandon Nassau
+		- The only people left are the privateers who are their to rest and fix their ships 
+		- When the war ends the privateers still want ot raid so they turn to pirates
+- Henry Jennings
+	- Considered grandfather of pirates 
+- Benjamin Hornigold 
+- Pirate Crew Connections, 1716-1726
+	- A lot of the notable pirates were working together at some point as their interests were all aligned 
