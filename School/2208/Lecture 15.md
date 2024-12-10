@@ -1,4 +1,4 @@
-Pardon and War 
+Despite these challenges, Rogers' determined leadership and reliance on reformed pirates to hunt their former comrades slowly turned the tide against piracy. By targeting the infrastructure that sustained piracy and bringing notorious figures to justice, Rogers dealt a decisive blow to the pirate stronghold in Nassau and restored the rule of law to the Bahamas. His efforts marked a turning point in the Caribbean’s battle against piracy.Despite these challenges, Rogers' determined leadership and reliance on reformed pirates to hunt their former comrades slowly turned the tide against piracy. By targeting the infrastructure that sustained piracy and bringing notorious figures to justice, Rogers dealt a decisive blow to the pirate stronghold in Nassau and restored the rule of law to the Bahamas. His efforts marked a turning point in the Caribbean’s battle against piracy.Pardon and War 
 - The King's Pardon of 1717
 	- The king issues a procolomation for pardoning pirates 
 	- Gives pirates a year to surrender to a colonial governor and they will get a full pardon 

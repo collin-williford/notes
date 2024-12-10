@@ -1,0 +1,40 @@
+The Golden Age Fades
+- Bartholomew Roberts, 1719-1722
+	- One of the most successful pirates of the golden age 
+		- Reportively captures some 400 ships 
+	- Roberts was 3rd mate on a ship with Captain Abraham Plumb 
+		- Plumb was known for mistreating his crew and slaves 
+		- Plumbs ship was captured by a pirate ship by Captain Howell Davis, d. 1719
+			- Roberts ends up on the ship of Davis as a pirate 
+				- Both of these men were born in Wales and spoke Welsh 
+	- The ship visits principa and their mayor kills Captain Plumb
+		- Davis is voted in as new Captian and they take revenge against principa city 
+		- They head to Brazil first and captures some ships from there then go north 
+		- Goes up to Caribbean and captures ships then goes all the way up east coast of North America 
+		- Shipping was slowing down because Roberts was creating so much fear on North American side 
+		- Roberts goes back to African coast to continue pirating
+		- They run into a British navy ship and they mistake it for a merchant ship 
+		- Roberts sends over one of his smaller ships to capture it and the navy takes over the smaller ship 
+			- Roberts was killed when trying to escape the British navy 
+- John Phillips 1721/1723-1724
+	- Phillips had captured Captain Andrew Harradine's ship and takes them in 
+	- Harradine doesn't want to be with Phillips so Harradine and his crew revolts and kills Phillips and his crew, 1724 
+- George Lowther, 1721-1722
+	- Captain Charles Russel ,1721 
+		- is the captain of a ship and he captures a new ship 
+		- The crew doesn't like Russel so they stage a revolt and Lowther becomes the new Captain of the *Gambia Castle*
+	- Lowther is unique as he likes to ram other ships with his own ship 
+	- Lowther runs into Captain Walter Moore off the coast of Venesualla in 1722
+		- Lowther and his crew swim ashore to escape capture 
+		- Lowther is found dead on the coast, he shot himself to avoid capture 
+- Edward Low, 1722-1724
+	- Is on the crew of Lowther as a leuitenant 
+	- When he leaves Lowther his next ship is named the *Rebecca* and he renames it to the *Fancy* 
+- William Fly, April to July, 1726 
+	- Fly is on a ship going from New England to West Africa 
+	- Fly doesn't like the captain and gets the crew to revolt 
+	- They turn into pirates 
+		- They captures a few ships off the east coast of modern America 
+	- William Atkinson is a member of his crew and he stages a revolt because he donsn't want to be a pirate along with the majority of the crew 
+		- Atkinson takes over the ship on June 23, 1726 
+			- Fly is executed in July, 1726 for piracy 
