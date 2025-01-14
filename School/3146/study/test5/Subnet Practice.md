@@ -28,7 +28,7 @@ Org B:
 - Subnet Rep
 	- require 3000 addresses
 	- 2^12 = 4096
-	- 198.16.48.0/20 
+	- 198.16.48.0/20
 - Last IP 
 	- IP to binary 
 	- 198.16.36.0
@@ -49,12 +49,12 @@ Org B:
 Org C:
  - First IP 
 	 - 198.16.64.0
-- Subnet 
+- Subnet
 	- need 2000 addresses
 	- 2^11 = 2048
 	- 198.16.64.0/21
-- Last IP 
-	- IP to binary 
+- Last IP
+	- IP to binary
 	- 198.16.64.0
 	- 11000110 00010000 01000000 00000000
 	- last 11 bits to 1's
