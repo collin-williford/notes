@@ -1,0 +1,60 @@
+- Prognosis 
+	- The act or art of foretellig the course of a disease 
+	- The prospect of survival and recovery from a disease as anticipated from the usual course of that disease or indicated by special features of the case 
+		- The **prognosis** is poor because of the accompanying cardiovascular disease 
+- Diagnosis 
+	- The art or act of identifying a disease from its signs and symptoms 
+	- The decision reached by diagnosis 
+		- a **diagnosis** of pneumonia 
+- Epidemiology
+	- A branch of medical sicence that deals with the incidence, distribution, and control of disease in a population 
+	- the sum of the factors controlling the presence or absence of a disease or pathogen 
+- Symptom 
+	- Subjective evidence of disease or physical distrubrance observed by the patient 
+		- headache is a **symptom** of many diseases
+- Virus 
+	- The causative agent of an infectious disease 
+- Bacteria 
+	- A member of a large group of unicellular microorganisms which have cell walls but lack organelles and an organized, nucleus, including some that can cause disease
+- Epidemic 
+	- Affecting or tending to affect an atypicaly large number of individuals within a population, community, or region at the same time
+- Pastule 
+	- A small, pus-filled, inflamed blister on the skin. Can be a sign of infection, but they can also be caused by inflammation or certain medications 
+- Contagion 
+	- The transmission of a disease by direct or indirect contact 
+- Miasma 
+	- A vaporous exhalation formerly believed to cause disease (such as malaria)
+- Pandemic 
+	- An epidemic that has spread so widely that very many people in different countries are affected. 
+	- Ex. Black death 
+- Spirochete 
+	- Any bacterium of the order Spirochaetales including those causing syphillis and relapsing fever 
+- Secular 
+	- Medical practice that is based on evidence and rational discourse, rather than on religion or sacred texts 
+- Parasite 
+	- An organism living in, or with or on another organism in parasitism 
+- Pulmanary 
+	- Realting to the lungs
+	- Pulmonary diseases are diseases that affect the lungs and other parts of the repiratory system 
+- Pathogen 
+	- A specific causative agent (as a bacterium or virus) of disease
+- Immunology 
+	- A science that deals with the immune system and the cell-mediated and humoral aspects of immunity and immune responses 
+- Fracture 
+	- To cause a fracture in 
+		- **fracture** a rib 
+- Bubo 
+	- An inflammatory swelling of a lymph node espically in the grion 
+- Therapy 
+	- Remedial treatment of mental or badily disorder 
+- Pathology 
+	- The study of the essential nature of diseases and espically of the structural and functional changes produced by them 
+- Sanitary 
+	- of, relating to, or used in the disposal espically of domestic waterborne waste 
+		- **sanitary** sewage
+- Antiseptic 
+	- opposing sepsis, putrefaction, or decay; espically preventing or arresting the growth of microorganisms (as on living tissue)
+- Asepsis 
+	- A technique to produce a germ-free environment to proect patients from infection 
+- Antibotic 
+	- A type of drug that treat bacterial infections by killing or stopping the growth of bacteria
