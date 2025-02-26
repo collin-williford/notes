@@ -1,0 +1,79 @@
+- Salerno School
+	- 9th cent
+	- Italy
+	- first medical school
+	- blend Greco-Roman, Arabic, Jewish medicine
+	- standardize medical edu
+- Celsus
+	- Roman encyclopedist
+	- 25 BCE - 50 CE
+	- compiled and summarized medical knowledge from roman and greek 
+	- detailed surgical procedures
+	- redness, heat, swelling and pain
+- Bayt al-Hikma
+	- House of Wisdom
+	- intellectual center and library in Baghdad
+	- 8th and 13th cent
+	- hub for scholars
+	- translated old greek, persian, and indian works 
+- Asclepius
+	- greek god of medicine and healing
+	- lived 1200 BCE worshiped 500 BCE
+	- temples dedicated to him
+	- staff of asclepius
+	- cults of health
+- Constantine
+	- 272 337 CE
+	- Roman emperor
+	- first to convert to christianity
+	- promoted care for sick 
+	- monasteries and churches become center for medical care
+- Vesalius
+	- 1514-1564
+	- Flemish physician and anatomist
+	- challenged anatomical Galen work
+	- conducted dissections
+	- hands-on dissection and empirical study 
+- Paracelsus
+	- 1493-1541
+	- Swiss physician and alchemist
+	- challenged traditional medicine
+	- use of chemicals and minerals in treatment
+	- disease caused by external factors
+- Caduceus
+	- staff with two serpents
+	- healing, rejuventation, medicine
+	- Asclepius
+	- symbol of medicine
+- Asklepion
+	- healing temple
+	- dedicated to Asclepius
+	- rest, diet, exercise, baths
+	- temple-sleeping
+- Cloaca Maxima
+	- first sewage system
+	- ancient rome 6th BC
+	- limit of waterborne diseases
+	- Roman hygiene
+- Guy de Chauliac 
+	- French physician and surgeon
+	- 1300-1368
+	- accounts of black death
+	- importance of hygiene
+	- surgical techniques
+- Agricultural revolution 
+	- 10,000 BCE
+	- transition from hunter gathering to settled farming
+	- close to livestock
+	- smallpox, tuberculosis, influenza
+-  Plague of Galen
+	- epidemic Roman empire
+	- 165 - 180 CE
+	- smallpox or measles
+	- detailed by Galen
+	- weakened Roman empire
+- Hotel Dieu
+	- old hospiltal in Europe
+	- 651 CE
+	- blending religious charity with treatment
+	- physicians could observe and study diseases
